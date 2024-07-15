@@ -1,5 +1,5 @@
 # Financial-Report
-This is the Monthly Financial Report for XY INT'L over the course of six months January 2024 - June 2024 
+This is the Monthly Income Expenditure Report for XY INT'L over the course of six months January 2024 - June 2024 
 
 
 At 623,500, May had the highest Income and was 4,056.67% higher than June, which had the lowest Income at 15,000. 
