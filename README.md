@@ -1,4 +1,5 @@
 # Financial-Report
+https://app.powerbi.com/view?r=eyJrIjoiNTVkYTViMzYtZmRmNy00NzYyLWEzNTQtNjIyZDc3MGUzZDgyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 This is the Monthly Income Expenditure Report for XY INT'L over the course of six months January 2024 - June 2024 
 
 
